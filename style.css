@@ -1,9 +1,4 @@
-body{font-size: 22px;
-    margin-left: 10%; margin-right: 10%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: papayawhip;
-    line-height: 1.5;
-    }
+
 
 
 body
@@ -16,11 +11,3 @@ body
     
 }
 
-body {
-    color: white;
-    background-color: black;
-  }
-  
-  p {
-    color: red;
-  }
