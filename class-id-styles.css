@@ -1,0 +1,27 @@
+p
+{   
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.primary-1
+{ 
+    background-color: pink;
+}
+
+.primary-2
+{color: blue;
+font-size: 36px;}
+
+
+.primary-1a
+{ 
+    background-color: pink;
+    font-size: 24px;
+}
+
+.primary-2a
+{
+font-size: 24px;
+background-color: lightgreen;
+font-weight: bold;}
